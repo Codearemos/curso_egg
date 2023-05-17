@@ -1,1 +1,3 @@
-HOLA, Bienvenidos
+Hola a todos!
+
+Bienvenidos a este repositorio, aquí compartiré los ejercicios que realicé en el curso de egg
